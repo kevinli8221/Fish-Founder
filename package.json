@@ -1,0 +1,19 @@
+{
+  "name": "fish-founder",
+  "version": "1.0.0",
+  "description": "reports fishing info and conditions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinli8221/Fish-Founder.git"
+  },
+  "author": "Kevin Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinli8221/Fish-Founder/issues"
+  },
+  "homepage": "https://github.com/kevinli8221/Fish-Founder#readme"
+}
