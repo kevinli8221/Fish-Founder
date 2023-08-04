@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kevinli8221/Fish-Founder/issues"
   },
-  "homepage": "https://github.com/kevinli8221/Fish-Founder#readme"
+  "homepage": "https://github.com/kevinli8221/Fish-Founder#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
 }

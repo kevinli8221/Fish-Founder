@@ -16,3 +16,18 @@ Reports fishing info and conditions
 
 # Data
 Api: https://tidesandcurrents.noaa.gov/web_services_info.html 
+
+</br>
+
+# Dependencies
+npm axios
+
+npm install -g http-server
+
+</br>
+
+# TO DO's
+parse api data neatly
+
+ability to edit api URL based on search criteria (most important is date atm)
+
